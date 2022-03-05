@@ -1,0 +1,3 @@
+## 👋 We are Voxtl
+
+We love to show off some of the stuff we have made, so we put it on GitHub for the world to see! Our creations can range from different applications, services and tools that we believe people would find useful. All open-source projects we create are here, this lets our team version control and collaborate on things. We also often use GitHub to deploy services and apps instantly when changes are made and checked over!
